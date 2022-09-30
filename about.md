@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is mostly a place for me to publish notes on what I'm doing (for work or otherwise). 
+This is mostly a space for me to publish notes about my experiments and goings-on (for work or otherwise).
 
 ### Contact me
 
