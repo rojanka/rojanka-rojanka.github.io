@@ -1,6 +1,6 @@
 ---
 title: "The tendency of word embeddings to encode word frequency"
-date: '2022-10-02'
+date: '2022-10-04'
 ---
 
 I had a discussion with Miriam Hurtado Bodell a couple of weeks back about the van Loon et al. paper "Negative Associations in Word Embeddings Predict Anti-black Bias across Regions–but Only via Name Frequency". One component argument of the paper's chain of reasoning struck us as strange: that word embeddings supposedly encode word frequency. The specific quote is
